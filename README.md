@@ -14,4 +14,4 @@ docker run -e NODE_VER='12.14.1' -it nvm bash
 docker run -e NODE_VER="$(<.nvmrc)" -it nvm bash
 ```
 
-Find on Docker Hub: <https://hub.docker.com/repository/docker/agiledigital/nvm>
+Find on Docker Hub: <https://hub.docker.com/r/agiledigital/nvm>
